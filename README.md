@@ -19,3 +19,5 @@ Ajax is a set of web development techniques using many web technologies on the c
 3.install node modules using command npm i or npm install<br>
 4.run server command node app.js<br>
 5.open url localhost:3000 in your browser
+
+This is a good example to learn web stack.
